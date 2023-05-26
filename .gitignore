@@ -1,9 +1,6 @@
 libtorch
-
 *.pt
-
 .vscode
-
 build
 
 
